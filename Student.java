@@ -1,4 +1,5 @@
 class Student {
+        int grades[];
 	String index;
 	String firstName;
 	String lastName;
